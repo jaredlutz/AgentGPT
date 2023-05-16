@@ -259,7 +259,7 @@ const Home: NextPage = () => {
             <Expand className="flex w-full flex-row">
               <ChatWindow
                 messages={messages}
-                title="AgentGPT"
+                title="VerityAI"
                 onSave={
                   shouldShowSave
                     ? (format) => {
@@ -297,7 +297,7 @@ const Home: NextPage = () => {
                   disabled={agent != null}
                   onChange={(e) => setNameInput(e.target.value)}
                   onKeyDown={(e) => handleKeyPress(e)}
-                  placeholder="AgentGPT"
+                  placeholder="VerityAI"
                   type="text"
                 />
               </Expand>
