@@ -221,7 +221,7 @@ const Home: NextPage = () => {
                 <span className="text-4xl font-bold text-[#C0C0C0] xs:text-5xl sm:text-6xl">
                   Agent
                 </span>
-                <span className="text-4xl font-bold text-white xs:text-5xl sm:text-6xl">GPT</span>
+                <span className="text-4xl font-bold text-white xs:text-5xl sm:text-6xl">Verity</span>
                 <PopIn delay={0.5}>
                   <Badge>
                     {`${i18n?.t("BETA", {

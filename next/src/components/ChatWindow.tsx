@@ -152,7 +152,7 @@ const ChatWindow = ({
             <PopIn delay={1.5}>
               <div className="m-2 flex flex-col justify-between gap-2 sm:m-4 sm:flex-row">
                 <ExampleAgentButton name="DueDiligenceGPT 🎮" setAgentRun={setAgentRun}>
-                  Write some code to make a platformer game.
+                  Create a comprehensive workflow for due diligence on a real estate syndication.
                 </ExampleAgentButton>
                 <ExampleAgentButton name="SyndicatorGPT 🌴" setAgentRun={setAgentRun}>
                   Create a plan to launch a real estate syndication
