@@ -17,7 +17,7 @@ export default function HelpDialog({ show, close }: { show: boolean; close: () =
             ns: "help",
           })}
           <a
-            href="https://docs.reworkd.ai"
+            href="https://docs.verityblock.ai"
             className="text-sky-500"
           >
             {t("VerityAI_DOCUMENTATION", { ns: "help" })}

@@ -15,10 +15,10 @@ We think the power of AI should be available to everyone and should be driven by
 This is why we are proudly open source. We'd love to hear your feedback at every step of the journey and the following channels are open for you to reach the team:
 
 ### Join the community
-- [AgentGPT website](https://agentgpt.reworkd.ai/)
-- [Github](https://github.com/reworkd/AgentGPT)
-- [Discord](https://discord.gg/jdSBAnmdnY)
-- [Google Survey](https://forms.gle/fjCo72hiYWZydJa1A)
+- [AgentGPT website](https://verityblock.ai/)
+- [Github](https://github.com)
+- [Discord](https://discord.gg)
+- [Google Survey](https://forms.gle)
 
 ## What's next?
 The entire VerityAI team is incredibly excited for the road to follow.
