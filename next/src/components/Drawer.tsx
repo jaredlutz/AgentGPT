@@ -64,7 +64,7 @@ const Drawer = ({
   };
 
   const handleSupport = () => {
-    const donationUrl = "https://github.com/sponsors/reworkd-admin";
+    const donationUrl = "https://github.com/";
     window.open(donationUrl, "_blank");
   };
 
@@ -154,7 +154,7 @@ const Drawer = ({
                 />
               }
               text="Discord"
-              href="https://discord.gg/jdSBAnmdnY"
+              href="https://discord.gg/"
               target="_blank"
               small
             />
@@ -166,7 +166,7 @@ const Drawer = ({
                 />
               }
               text="Twitter"
-              href="https://twitter.com/asimdotshrestha/status/1644883727707959296"
+              href="https://twitter.com/dcap_ceo"
               target="_blank"
               small
             />
@@ -178,7 +178,7 @@ const Drawer = ({
                 />
               }
               text="GitHub"
-              href="https://github.com/reworkd/AgentGPT"
+              href="https://github.com/dcapfinance/AgentGPT"
               target="_blank"
               small
             />

@@ -14,11 +14,11 @@
 <p align="center">
 <a href="https://agentgpt.reworkd.ai">🔗 Short link</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://docs.reworkd.ai/">📚 Docs</a>
+<a href="https://docs.verityblock.ai/">📚 Docs</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://docs.reworkd.ai/contributing">🤝 Contribute</a>
+<a href="https://docs.verityblock.ai/contributing">🤝 Contribute</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/asimdotshrestha/status/1644883727707959296">🐦 Twitter</a>
+<a href="https://twitter.com/dcap_ceo">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
@@ -38,7 +38,7 @@ By sponsoring this free, open-source project, you not only have the opportunity 
 </p>
 
 <p align="center">
-<a href="https://github.com/sponsors/reworkd-admin">👉 Click here</a> to support the project
+<a href="https://github.com/">👉 Click here</a> to support the project
 </p>
 
 <h3 align="center">
@@ -56,7 +56,7 @@ Name your own custom AI and have it embark on any goal imaginable.
 It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
 ## 🎉 Roadmap
-This platform is currently in beta, a full list of completed and planed features can be found on our [public roadmap](https://docs.reworkd.ai/roadmap).
+This platform is currently in beta, a full list of completed and planed features can be found on our [public roadmap](https://docs.verityblock.ai/roadmap).
 
 ## 🚀 Tech Stack
 
@@ -70,7 +70,7 @@ This platform is currently in beta, a full list of completed and planed features
 - ✅ **End-to-end typesafe API**: [tRPC](https://trpc.io/).
 
 ## 👨‍🚀 Getting Started
-✨ For the latest guide, visit our [Setup documentation](https://docs.reworkd.ai/development/setup)
+✨ For the latest guide, visit our [Setup documentation](https://docs.verityblock.ai/development/setup)
 
 ### 🐳 Docker Setup
 

@@ -61,4 +61,4 @@ If you're still having trouble, you can follow a legacy guide from
 @CybrCo: [How to install AgentGPT locally](https://snapdragon-writer-867.notion.site/How-to-Install-AgentGPT-Locally-9b96b2314c9b491397976249fd121023)
 
 If you still face problems, please submit an [issue on GitHub](https://github.com/reworkd/AgentGPT/issues) or reach out
-to the team on [discord](https://discord.gg/jdSBAnmdnY).
+to the team on [discord](https://discord.gg/).

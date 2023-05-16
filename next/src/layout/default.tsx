@@ -31,7 +31,7 @@ const DefaultLayout = (props: LayoutProps) => {
         <meta name="twitter:image:height" content="640" />
         <meta property="og:title" content="VerityAI: Autonomous AI in your browser 🤖" />
         <meta property="og:description" content={description} />
-        <meta property="og:url" content="https://agentgpt.reworkd.ai/" />
+        <meta property="og:url" content="https://agent-gpt-teal-theta.vercel.app/" />
         <meta property="og:image" content="https://verityblock.ai/wp-content/uploads/2023/04/Group-2.png" />
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:height" content="640" />

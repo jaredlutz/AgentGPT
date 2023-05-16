@@ -16,7 +16,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="#-getting-started">🤝 Hozzájárulás</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/asimdotshrestha/status/1644883727707959296">🐦 Twitter</a>
+<a href="https://twitter.com/dcap_ceo">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
@@ -36,7 +36,7 @@ Ennek az ingyenes, nyílt forráskódú projektnek a szponzorálásával nem csa
 </p>
 
 <p align="center">
-<a href="https://github.com/sponsors/reworkd-admin">👉 Kattint ide</a> ha szeretnéd támogatni a projektet
+<a href="https://github.com/">👉 Kattint ide</a> ha szeretnéd támogatni a projektet
 </p>
 
 <h3 align="center">

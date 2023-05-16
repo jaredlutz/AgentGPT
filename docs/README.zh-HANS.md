@@ -17,7 +17,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="#-getting-started">🤝 参与贡献</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/asimdotshrestha/status/1644883727707959296">🐦 推特</a>
+<a href="https://twitter.com/dcap_ceo">🐦 推特</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/sponsors/reworkd-admin">👉 点击此处</a> 支持项目
+<a href="https://github.com/">👉 点击此处</a> 支持项目
 </p>
 
 <h3 align="center">

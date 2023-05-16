@@ -23,7 +23,7 @@ export const SorryDialog = ({ show, close }: SorryDialogProps) => {
         })}`}
         <a
           className="link"
-          href="https://docs.reworkd.ai/roadmap"
+          href="https://docs.verityblock.ai/roadmap"
           target="_blank"
           rel="noreferrer"
         >

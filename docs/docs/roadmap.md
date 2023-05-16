@@ -45,7 +45,7 @@ VerityAI developers are actively working on the following. Expect these to take 
 
 :::tip
 If any of these features stand out to you, or you'd like to suggest more features, please do so in
-the [VerityAI discord](https://discord.gg/jdSBAnmdnY)!
+the [VerityAI discord](https://discord.gg/)!
 :::
 
 - 👨‍👩‍👦 **Interaction with websites and people**

@@ -7,7 +7,7 @@ sidebar_position: 4
 ### Introduction
 
 Below is a list of the most frequently asked questions about VerityAI. If you have any unanswered questions, please
-reach out to the moderation or dev team on [Discord](https://discord.gg/jdSBAnmdnY)
+reach out to the moderation or dev team on [Discord](https://discord.gg/)
 or [GitHub](https://github.com/reworkd/VerityAI).
 
 ### API key issues

@@ -9,7 +9,7 @@ const config = {
   title: 'VerityAI',
   tagline: 'Autonomous AI agents directly in your browser',
   favicon: 'favicon.ico',
-  url: 'https://docs.reworkd.ai',
+  url: 'https://docs.verityblock.ai',
   baseUrl: '/',
   organizationName: 'reworkd', // Usually your GitHub org/user name.
   projectName: 'VerityAI', // Usually your repo name.
@@ -55,7 +55,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/reworkd/AgentGPT',
+            href: 'https://docs.verityblock.ai',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',

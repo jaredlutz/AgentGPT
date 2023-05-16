@@ -28,7 +28,7 @@ export default function HelpDialog({ show, close }: { show: boolean; close: () =
         <div className="mt-4 flex w-full items-center justify-center gap-5">
           <div
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
-            onClick={() => window.open("https://discord.gg/jdSBAnmdnY", "_blank")}
+            onClick={() => window.open("https://discord.gg/", "_blank")}
           >
             <FaDiscord size={30} />
           </div>
@@ -36,7 +36,7 @@ export default function HelpDialog({ show, close }: { show: boolean; close: () =
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
             onClick={() =>
               window.open(
-                "https://twitter.com/asimdotshrestha/status/1644883727707959296",
+                "https://twitter.com/dcap_ceo",
                 "_blank"
               )
             }
