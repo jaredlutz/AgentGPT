@@ -26,13 +26,13 @@ const DefaultLayout = (props: LayoutProps) => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="VerityAI 🤖" />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content="https://agentgpt.reworkd.ai/banner.png" />
+        <meta name="twitter:image" content="https://verityblock.ai/wp-content/uploads/2023/04/Group-2.png" />
         <meta name="twitter:image:width" content="1280" />
         <meta name="twitter:image:height" content="640" />
         <meta property="og:title" content="VerityAI: Autonomous AI in your browser 🤖" />
         <meta property="og:description" content={description} />
         <meta property="og:url" content="https://agentgpt.reworkd.ai/" />
-        <meta property="og:image" content="https://agentgpt.reworkd.ai/banner.png" />
+        <meta property="og:image" content="https://verityblock.ai/wp-content/uploads/2023/04/Group-2.png" />
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:height" content="640" />
         <meta property="og:type" content="website" />
