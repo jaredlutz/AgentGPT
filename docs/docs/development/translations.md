@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 🌎 Translations
 
-AgentGPT has translations across a variety of languages thanks to the help of many contributors such as @Cs4K1Sr4C.
+VerityAI has translations across a variety of languages thanks to the help of many contributors such as @Cs4K1Sr4C.
 languages. We're always looking to improve our translations however, if you notice something is off or missing, please
 feel free to make the necessary updates or submit a ticket on GitHub!
 
