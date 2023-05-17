@@ -2,7 +2,7 @@
 import { z } from "zod";
 
 const requiredForProduction = () =>
-  process.env.NODE_ENV === "production"
+  process.env.NODE_ENV === "development"
     ? z.string().min(1).trim()
     : z.string().min(1).trim().optional();
 
