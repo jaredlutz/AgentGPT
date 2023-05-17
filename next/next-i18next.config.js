@@ -26,7 +26,7 @@ module.exports = {
   },
   localePath: typeof window === "undefined" ? "./public/locales" : "/locales",
   debug: false,
-  reloadOnPrerender: process.env.NODE_ENV === "development",
+  reloadOnPrerender: process.env.NODE_ENV === "production",
   defaultNS: "common",
   ns: [
     "common",

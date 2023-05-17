@@ -28,7 +28,7 @@ const commonOptions: Partial<AuthOptions> & { adapter: Adapter } = {
   },
 }
 export const authOptions = (req: NextApiRequest | IncomingMessage, res: NextApiResponse | ServerResponse) => {
-  const options = env.NEXT_PUBLIC_VERCEL_ENV === "development"
+  const options = env.NEXT_PUBLIC_VERCEL_ENV === "production"
     ? devOptions(commonOptions.adapter, req, res)
     : prodOptions
 
