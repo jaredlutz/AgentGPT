@@ -34,7 +34,7 @@ export function useAuth(): Auth {
 
   const handleSignOut = async () => {
     await signOut({
-      callbackUrl: "",
+      callbackUrl: "https://agent-gpt-teal-theta.vercel.app/api/auth/callback/google",
     }).catch();
   };
 
