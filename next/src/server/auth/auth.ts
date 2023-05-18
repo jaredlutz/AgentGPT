@@ -9,17 +9,17 @@ export const authOptions: NextAuthOptions = {
     GoogleProvider({
       clientId: serverEnv.GOOGLE_CLIENT_ID ?? "",
       clientSecret: serverEnv.GOOGLE_CLIENT_SECRET ?? "",
-      allowDangerousEmailAccountLinking: true,
+      allowDangerousEmailAccountLinking: false,
     }),
     GithubProvider({
       clientId: serverEnv.GITHUB_CLIENT_ID ?? "",
       clientSecret: serverEnv.GITHUB_CLIENT_SECRET ?? "",
-      allowDangerousEmailAccountLinking: true,
+      allowDangerousEmailAccountLinking: false,
     }),
     DiscordProvider({
       clientId: serverEnv.DISCORD_CLIENT_ID ?? "",
       clientSecret: serverEnv.DISCORD_CLIENT_SECRET ?? "",
-      allowDangerousEmailAccountLinking: true,
+      allowDangerousEmailAccountLinking: false,
     }),
   ],
 };
